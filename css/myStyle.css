@@ -1,36 +1,5 @@
 /*estas ahi archivo?*/
-h1{
+h1,h2,h3,h4,h5,h6{
     margin: 0 auto;
     text-align: center;
-    width: 250px;
-}
-
-h2{
-    margin: auto;
-    text-align: center;
-    width: 250px;
-}
-
-h3{
-    margin: auto;
-    text-align: center;
-    width: 250px;
-}
-
-h4{
-    margin: auto;
-    text-align: center;
-    width: 250px;
-}
-
-h5{
-    margin: auto;
-    text-align: center;
-    width: 250px;
-}
-
-h6{
-    margin: auto;
-    text-align: center;
-    width: 250px;
-}
+    width: 250px
