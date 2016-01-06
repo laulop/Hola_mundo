@@ -1,11 +1,13 @@
 /*estas ahi archivo?*/
 div{
-    height: 300px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    margin: 0 auto;
-    text-align: center;
-    width: 3000px;
+    height: 300px; /* Definimos el alto de la caja */
+    width: 300px; /* definimos el ancho de la caja */
+    position: absolute; /* definimos la posicion respecto al padre */
+    top: 0; /* -Arriba- permite desplazar un elemento respecto a su posición original*/
+    left: 0; /*-Izquierda-*/
+    right: 0; /*-Derecha-*/
+    bottom: 0; /*-Abajo-*/
+    margin: auto; /* definimos el magen de la caja automaticamente*/
+    text-align: center; /*alineamos el cexto*/
+    color: black; /*le damos corlos al texto*/
 }
